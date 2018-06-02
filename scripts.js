@@ -1,5 +1,5 @@
 'use strict';
-(function(){ 
+ 
 	
 	
 	var showModal = function(event){
@@ -37,4 +37,3 @@
 			event.stopPropagation();
 		});
 	}
-})(); 
